@@ -11,3 +11,17 @@ public class SortAlgo{
       }
 }
 }
+//Basic program structure:
+/*
+ * 1. Display photos or other files to rename and organize into folders
+ * 2. Determine which directory from which to pull files
+ * 3. Create a new directory if necessary for this step
+ * 4. Access metadata or tags as needed
+ * 
+ */
+
+public void rename(String dirOrig, String dirDest)
+{
+  String o = String Orig;
+  
+}
